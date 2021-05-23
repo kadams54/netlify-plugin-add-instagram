@@ -12,5 +12,5 @@ inputs:
     default: "m"
   - name: username
     required: true
-  - name: sessionid
+  - name: sessionID
     required: true
