@@ -62,6 +62,9 @@ This plugin will fetch the specified instagram feed and the latest 12 images and
 
     # Instagram username
     username = "philhawksworth"
+
+    # Instagram sessionid from a logged-in cookie
+    sessionid = "1234"
 ```
 
 
